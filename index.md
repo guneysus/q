@@ -1,3 +1,3 @@
 - [Markdown](markdown/)
-- [OpenCL] (opencl/)
+- [OpenCL](opencl/)
 - [VsCode](vscode/)
